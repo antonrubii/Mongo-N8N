@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6a2d3c743e3ec978bea0f5c9"
+  },
+  "especie": "Choco",
+  "fecha": "2024-05-22",
+  "peso": "1.00 kg",
+  "tamano": "18.00 cm",
+  "ubicacion": "Ría de Vigo",
+  "pescador": "Nacho",
+  "estado": "pendiente"
+},
+{
+  "_id": {
+    "$oid": "6a2d3c743e3ec978bea0f5ca"
+  },
+  "especie": "Trucha común",
+  "fecha": "2026-06-09",
+  "peso": "1.80 kg",
+  "tamano": "42.00 cm",
+  "ubicacion": "Río Ebro",
+  "pescador": "Anton",
+  "estado": "pendiente"
+},
+{
+  "_id": {
+    "$oid": "6a2d3c743e3ec978bea0f5cb"
+  },
+  "especie": "Salmón atlántico",
+  "fecha": "2026-01-04",
+  "peso": "6.50 kg",
+  "tamano": "82.00 cm",
+  "ubicacion": "Río Miño",
+  "pescador": "Pedro",
+  "estado": "confirmada"
+}]
